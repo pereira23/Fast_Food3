@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#142AA3"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="115dp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_italiano"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:background="#FFEB3B"
+            android:text="@string/btn_italiano"
+            android:textColor="#F44336"
+            android:textSize="30sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="115dp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_chacarero"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:background="#FFEB3B"
+            android:text="@string/btn_chacarero"
+            android:textColor="#F44336"
+            android:textSize="30sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="115dp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_barrosluco"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:background="#FFEB3B"
+            android:text="@string/btn_barrosluco"
+            android:textColor="#F44336"
+            android:textSize="30sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="115dp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_barrosjarpa"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:background="#FFEB3B"
+            android:text="@string/btn_barrosjarpa"
+            android:textColor="#F44336"
+            android:textSize="30sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="115dp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_hamburguesa"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:background="#FFEB3B"
+            android:text="@string/btn_hamburguesa"
+            android:textColor="#F44336"
+            android:textSize="30sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fast_Food</string>
+    <string name="img_logo">logo_app</string>
+    <string name="btn_sandwich">SANDWICHES</string>
+    <string name="btn_nosotros">SOBRE NOSOTROS</string>
+    <string name="btn_italiano">ITALIANO</string>
+    <string name="btn_chacarero">CHACARERO</string>
+    <string name="btn_barrosluco">BARROS LUCO</string>
+    <string name="btn_barrosjarpa">BARROS JARPA</string>
+    <string name="btn_hamburguesa">HAMBURGUESA</string>
+    <string name="descripcion_local">SOMOS UNA EMPRESA FAMILIAR CON MAS DE 5 AÑOS
+    DE EXPERIENCIA Y RELACIÓN CON LA CUMUNIDAD, REALIZANDO LOS MEJORES SANDWHICHES,
+    SI NO ES BUENO NO ES FAST FOOD!!!</string>
+
+    <string name="titulo_app">FAST FOOD</string>
+    <string name="titulo_sandiw">Sandwiches</string>
+
+</resources>
