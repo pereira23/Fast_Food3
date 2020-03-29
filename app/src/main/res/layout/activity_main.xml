@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#142AA3"
+    android:background="@drawable/fondo1"
     tools:context=".MainActivity">
 
 
@@ -23,10 +23,9 @@
         android:layout_width="300dp"
         android:layout_height="60dp"
         android:layout_marginBottom="32dp"
-        android:background="#FFEB3B"
         android:text="@string/btn_sandwich"
+        android:textColor="@android:color/black"
         android:textSize="30sp"
-        android:textColor="#F44336"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/btn_nosotros"
         app:layout_constraintEnd_toEndOf="parent"
@@ -38,10 +37,9 @@
         android:layout_width="300dp"
         android:layout_height="60dp"
         android:layout_marginBottom="160dp"
-        android:background="#FFEB3B"
         android:text="@string/btn_nosotros"
         android:textSize="30sp"
-        android:textColor="#F44336"
+        android:textColor="@android:color/black"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
